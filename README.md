@@ -6,3 +6,6 @@
 - From here I want to make a flappy bird game after I do the WebGL tut.
 - Also, odd side note the creator of this tut didn't use a Boolean for when the brick was hit or not. They chose to use a 1 or a 0, not sure if that's coding preference or best practice.
 - Side side note the more I use the term 'tut' the less I like it.
+
+## Instructions to run:
+- Download the repo to your local machine and copy/paste the local path in your favorite browser. Enjoy!
