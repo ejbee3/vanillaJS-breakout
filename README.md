@@ -9,5 +9,5 @@
 - Side side note the more I use the term 'tut' the less I like it.
 
 ## Instructions to run:
-- Download the repo to your local machine and copy/paste the local path in your favorite browser. Enjoy!
+- Download the repo to your local machine and copy/paste the local HTML file path in your favorite browser. Enjoy!
 - This is NOT a mobile app.
