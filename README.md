@@ -9,3 +9,4 @@
 
 ## Instructions to run:
 - Download the repo to your local machine and copy/paste the local path in your favorite browser. Enjoy!
+- This is NOT a mobile app.
